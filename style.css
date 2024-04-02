@@ -33,6 +33,12 @@ body {
     background-color: #fff;
 }
 
+.caveat {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
 
 b,
 strong {
@@ -704,6 +710,10 @@ transform: translateY(-6px);
 
 .medium-para{
     font-size: 24px;
+}
+.medium-para-caveat{
+    font-size: 2vw;
+    line-height: 1.25;
 }
 
 .bnr-cmn-txt {
