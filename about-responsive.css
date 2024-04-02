@@ -1,7 +1,7 @@
 
 @media(min-width:1025px) {
     .inr-text-wpr{
-        min-height: 100vh;
+        min-height: 110vh;
         max-height: auto;
         display: flex;
         flex-direction: column;
@@ -23,7 +23,7 @@
 /* ---- container ---- */
 @media (min-width:1200px) {
     .inr-text-wpr{
-        min-height: 100vh;
+        min-height: 110vh;
         max-height: auto;
         display: flex;
         flex-direction: column;
@@ -40,7 +40,7 @@
 
 @media(max-width:1199px) {
     .inr-text-wpr{
-        min-height: 100vh;
+        min-height: 110vh;
         max-height: auto;
         display: flex;
         flex-direction: column;
@@ -51,7 +51,7 @@
 
 @media(max-width:1024px) {
     .inr-text-wpr{
-        min-height: 100vh;
+        min-height: 110vh;
         max-height: auto;
         display: flex;
         flex-direction: column;
